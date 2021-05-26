@@ -14,7 +14,7 @@ scipy
 __For miniImagenet training and testing, run following commands.__
 
 ```
-python eval_arn.py -s $SHOT -d 'hmdb51' -m 'saa_jigsaw'
+python eval_arn.py -s $SHOT -d 'hmdb51' -m 'sa_jigsaw'
 -s: shot number
 -d: dataset
 -m: model name

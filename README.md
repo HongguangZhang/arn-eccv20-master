@@ -1,5 +1,5 @@
 # arn-eccv20-master
-The code for ECCV'20 paper "[Few-shot Action Recognition via Permutation-invariant Attention](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500511.pdf)"<br/>
+The evaluation code for ECCV'20 paper "[Few-shot Action Recognition via Permutation-invariant Attention](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500511.pdf)"<br/>
 
 ![Pipline of ARN](docs/arn.png)
 
